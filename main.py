@@ -68,8 +68,6 @@ cbar.ax.set_position([0.1, 0.35, 0.8, 5])
 fig.subplots_adjust(hspace=0.4)  # Increase the space between the two subplots
 ax2.set_position([0.1, 0.25, 0.8, 0.15])  # Reducing the height of the thermal map plot
 
-# Adding a legend for the thermal map and adjusting its position
-
 # Remove axis lines from plot
 ax2.set_frame_on(False)
 
