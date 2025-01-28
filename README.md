@@ -1,4 +1,4 @@
-# Thermal-Diffusion-Simulation-with-Python
+# Thermal Diffusion Simulation with Python
 
 This project simulates the heat diffusion along a wire using the finite difference method and provides a dynamic visualization of temperature distribution over time. It includes both a line plot and a thermal map to represent the evolution of the temperature distribution.
 
